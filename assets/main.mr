@@ -1,0 +1,6 @@
+import "engine_sim.mr"
+import "engines/bmw/M52B28.mr"
+
+set_engine(
+    engine: M52B28()
+)
