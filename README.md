@@ -1,20 +1,13 @@
 # engine-sim-mod
 
 **->Keybinds<-**
-
-U -> Toggle Supercharger
-
+U -> Toggle Supercharger \n
 T -> Switch Transmission (Automatic / Manual)
-
 J -> Switch Transmission mode ( Comfort / Sport )
 
-
 **->Defaults<-**
-
 Supercharger -> Off
-
 Transmission -> Manual
-
 Mode -> Comfort
 
 # How to install?
