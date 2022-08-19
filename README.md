@@ -38,5 +38,5 @@ public node M52B28 {
 ...
 ```
 
-**->Information<-**
+**->Information<-** <br />
 Due to most Engines getting stuck at high rpm from the Supercharger, the Wastegate will only close if throttle is applied.
