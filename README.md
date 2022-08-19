@@ -1,14 +1,14 @@
 # engine-sim-mod
 
-**->Keybinds<-**
-U -> Toggle Supercharger \n
-T -> Switch Transmission (Automatic / Manual)
-J -> Switch Transmission mode ( Comfort / Sport )
+**->Keybinds<-** <br />
+U -> Toggle Supercharger <br />
+T -> Switch Transmission (Automatic / Manual) <br />
+J -> Switch Transmission mode ( Comfort / Sport ) <br />
 
-**->Defaults<-**
-Supercharger -> Off
-Transmission -> Manual
-Mode -> Comfort
+**->Defaults<-** <br />
+Supercharger -> Off <br />
+Transmission -> Manual <br />
+Mode -> Comfort <br />
 
-# How to install?
+# How to install? <br />
 Download this Repository and run the `engine-sim-app.exe` in the `bin` folder.
